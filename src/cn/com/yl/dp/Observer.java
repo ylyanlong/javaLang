@@ -6,6 +6,12 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+/**
+ *  参考链接: 
+ * @author Administrator
+ *
+ */
+
 class WeatherEvent extends EventObject{
 
 	/**
