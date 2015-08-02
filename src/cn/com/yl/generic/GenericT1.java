@@ -74,7 +74,8 @@ public class GenericT1 {
 		add(stackStr, stackObj);
 		printGenericStack(stackObj);
 	}
-	
+
+
 	public static <E> void print(E[] list){
 		for(int i = 0; i < list.length; ++i)
 			System.out.print(list[i] + "  ");
